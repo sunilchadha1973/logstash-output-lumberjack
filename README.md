@@ -1,6 +1,7 @@
 # Logstash Plugin
 
 [![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-lumberjack.svg)](https://travis-ci.org/logstash-plugins/logstash-output-lumberjack)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Flogstash-output-lumberjack.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Flogstash-output-lumberjack?ref=badge_shield)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
@@ -96,3 +97,6 @@ Programming is not a required skill. Whatever you've seen about open source and 
 It is more important to the community that you are able to contribute.
 
 For more information about contributing, see the [CONTRIBUTING](https://github.com/elastic/logstash/blob/master/CONTRIBUTING.md) file.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Flogstash-output-lumberjack.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Flogstash-output-lumberjack?ref=badge_large)
